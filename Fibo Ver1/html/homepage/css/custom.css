@@ -1489,13 +1489,13 @@ padding: 8px 15px;
     color: #636363;
 }
 .testimonial-slide .testimonial-text:before {
-    content: "";
+    content: "ï„�";
     font-family: FontAwesome;
     padding-right: 10px;
     font-size: 25px;
 }
 .testimonial-slide .testimonial-text:after {
-    content: "";
+    content: "ï„Ž";
     font-family: FontAwesome;
     font-size: 25px;
     padding-left: 10px;
@@ -1731,7 +1731,7 @@ padding: 8px 15px;
     display: inline-block;
     margin-right: 8px;
     color: #5B5B5B;
-    content: "";
+    content: "ï„…";
     font-family: FontAwesome;
 }
 .menu_head{
@@ -2479,7 +2479,7 @@ iframe{
     line-height: 40px;
     top: 0px;
     text-align: center;
-    content: "";
+    content: "ï�§";
 }
 .video-text .panel-group  h4.panel-title a:after {
     font-family: FontAwesome;
@@ -2493,7 +2493,7 @@ iframe{
     line-height: 40px;
     top: 0px;
     text-align: center;
-    content: "";
+    content: "ï�¨";
 }
 
 .video-text .panel-group .panel-heading.active{
@@ -2539,7 +2539,7 @@ iframe{
     line-height: 40px;
     top: 0px;
     text-align: center;
-    content: "";
+    content: "ï�§";
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
@@ -2555,7 +2555,7 @@ iframe{
     line-height: 40px;
     top: 0px;
     text-align: center;
-    content: "";
+    content: "ï�¨";
     background: none repeat scroll 0% 0% #F05743;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
